@@ -1,5 +1,5 @@
+import { Trip } from "../../../types";
 import TripCard from "../TripCard.tsx/TripCard";
-import { Trip } from "../types";
 
 import styles from "./TripsList.module.scss";
 
